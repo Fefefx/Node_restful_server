@@ -1,0 +1,5 @@
+#Módulos do node
+/node_modules
+
+#Documento contendo os registros do banco de dados
+/users.db
